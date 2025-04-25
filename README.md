@@ -23,11 +23,6 @@ A professional full-stack project management dashboard with complete CRUD featur
 - Material UI / Bootstrap (optional)
 - CSS modules
 
-## 📁 Folder Structure
-
-src/ ├── components/ │ ├── common/ (Reusable UI) │ └── TaskCard.jsx ├── features/ │ ├── employees/ │ ├── projects/ │ └── tasks/ ├── pages/ ├── utils/ └── App.jsx
-
-
 
 ## 🛠 Setup Instructions
 
