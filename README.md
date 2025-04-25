@@ -33,7 +33,7 @@ src/ ├── components/ │ ├── common/ (Reusable UI) │ └── Tas
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/project-management-dashboard.git
+git clone https://github.com/baskarlmca2023/project-management-dashboard.git
 
 # Navigate
 cd project-management-dashboard
